@@ -1,0 +1,27 @@
+{
+  "name": "lachzar-stanev-cv",
+  "version": "1.0.0",
+  "description": "This is a CV written in HTML+CSS exported to a PDF format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lStanev00/CV.git"
+  },
+  "keywords": [
+    "cv",
+    "builder"
+  ],
+  "author": "Lachezar Stanev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lStanev00/CV/issues"
+  },
+  "homepage": "https://github.com/lStanev00/CV#readme",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^23.6.1"
+  }
+}
